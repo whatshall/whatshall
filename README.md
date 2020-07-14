@@ -6,7 +6,8 @@
 
 ## Olá! 👋
 
-Sou o Leandro, bacharel em ciências econômicas e cursando ciências de dados pela Univesp.
+Sou o Leandro, 
+bacharel em ciências econômicas e cursando ciências de dados pela Univesp.
 
 - :office_worker: data analytics em **Zup Innovation**
 
