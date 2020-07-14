@@ -8,7 +8,6 @@
 
 Sou o Leandro, bacharel em ciências econômicas e cursando ciências de dados pela Univesp.
 
-- :office_worker: 🔭 I’m currently working on data analytics em **Zup Innovation**
-- :blue_heart: .
+- :office_worker: data analytics em **Zup Innovation**
 
 <!--
