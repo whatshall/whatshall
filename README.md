@@ -4,11 +4,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandrovermelhobuosi@gmail.com)](mailto:leandrovermelhobuosi@gmail.com)
 
 
-'sic parvis magna'
+'without data you're just another person with an opinion'
 
  
 :books: bacharel em ciências econômicas e cursando ciências de dados pela Univesp.
 
-:office_worker: data analytics em **Zup Innovation**
+data analytics em **Zup Innovation**
 
 <!--
