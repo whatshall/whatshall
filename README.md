@@ -7,7 +7,7 @@
 'without data you're just another person with an opinion'
 
  
-:books: bacharel em ciências econômicas e cursando ciências de dados pela Univesp.
+:books: bacharel em ciências econômicas.
 
 data analytics em **Zup Innovation**
 
