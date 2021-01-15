@@ -3,9 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lebuosi/)](https://www.linkedin.com/in/lebuosi/)
 
 
-
-'without data you're just another person with an opinion'
-
  
 :books: bacharel em ciências econômicas.
 
